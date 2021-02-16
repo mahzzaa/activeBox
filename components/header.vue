@@ -3,7 +3,7 @@
     class="h-96 header flex flex-col inline-block items-center align-middle"
   >
     <div
-      class="flex flex-row justify-between w-4/6 xs:w-full h-20 border-2 border-t-0 border-l-0 border-r-0 border-blue-1000 p-6"
+      class="flex flex-row justify-between w-4/6 md:w-5/6 xs:w-full h-20 border-2 border-t-0 border-l-0 border-r-0 border-blue-1000 p-6"
     >
       <div class="flex flex-row">
         <h1 class="text-blue-1000 bg-opacity-50 font-extrabold text-xl xs:font-bold xs:text-lg">
@@ -13,22 +13,22 @@
       </div>
       <div class=" flex flex-row justify-center align-center ">
         <button
-          class="mr-3 uppercase text-white text-xs flex justify-center align-center p-2 xs:m-0 xs:invisible"
+          class="mr-3 uppercase text-white text-xs flex justify-center align-center p-2 xs:m-0 xs:invisible md:mr-2"
         >
           features
         </button>
         <button
-          class="mr-3 uppercase text-white text-xs flex justify-center align-center p-2 xs:m-0 xs:invisible"
+          class="mr-3 uppercase text-white text-xs flex justify-center align-center p-2 xs:m-0 xs:invisible md:mr-2"
         >
           works
         </button>
         <button
-          class="mr-3 uppercase text-white text-xs flex justify-center align-center p-2 xs:m-0 xs:invisible"
+          class="mr-3 uppercase text-white text-xs flex justify-center align-center p-2 xs:m-0 xs:invisible md:mr-2"
         >
           our team
         </button>
         <button
-          class="mr-3 uppercase text-white text-xs flex justify-center align-center p-2 xs:m-0 xs:invisible xs:"
+          class="mr-3 uppercase text-white text-xs flex justify-center align-center p-2 xs:m-0 xs:invisible md:mr-2"
         >
           testimonials
         </button>
@@ -39,15 +39,15 @@
         </button>
       </div>
     </div>
-    <div class="flex flex-col justify-center items-center m-10 mt-40 p-6 w-4/6 xs:mt-32 xs:w-5/6">
-      <h1 class=" font-bold m-0 text-5xl text-white uppercase tracking-wide xs:font-semibold xs:text-xl xs:text-center">
+    <div class="flex flex-col justify-center items-center m-10 mt-40 p-6 w-4/6 xs:mt-32 xs:w-5/6 md:mt-32">
+      <h1 class=" font-bold m-0 text-5xl text-white uppercase tracking-wide xs:font-semibold xs:text-xl xs:text-center md:text-center md:font-semibold">
         your favorite one page
       </h1>
-      <h1 class=" font-bold m-0 text-5xl text-white uppercase tracking-wide xs:font-semibold xs:text-xl xs:text-center">
+      <h1 class=" font-bold m-0 text-5xl text-white uppercase tracking-wide xs:font-semibold xs:text-xl xs:text-center md:text-center md:font-semibold">
         multi purpose template
       </h1>
-      <div class="w-3/6 xs:w-5/6 xs:pt-6 flex justify-center align-center items-center">
-        <p class="flex align-cnter justify-center text-white mb-6 text-center">
+      <div class="w-3/6 xs:w-5/6 xs:pt-6 flex justify-center align-center items-center md:w-5/6">
+        <p class="flex align-cnter justify-center text-white mb-6 text-center md:text-sm">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
           ducimus error aliquid nam reprehenderit quasi modi reiciendis
           consectetur
