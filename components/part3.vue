@@ -10,7 +10,7 @@
       />
       <h1 class="mt-6 font-thin text-lg xs:text-base">Christina Morillo</h1>
       <h4 class="text-xs uppercase font-thin text-red-1000 xs:text-xs">founder, CEO</h4>
-      <p class="xs:hidden text-sm text-gray-600 text-thin mt-6 mb-6 md:hidden ">
+      <p class="visible xs:hidden text-sm text-gray-600 text-thin mt-6 mb-6 ">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ipsum
         unde, soluta ullam earum quibusdam nisi commodi nulla voluptas. Nesciunt
         illo reiciendis quis eum accusantium atque ipsum dolor nulla quibusdam.
@@ -35,7 +35,7 @@
       />
       <h1 class="mt-6 font-thin text-lg xs:text-base">Christina Morillo</h1>
       <h4 class="text-xs uppercase font-thin text-red-1000 xs:text-xs">founder, CEO</h4>
-      <p class="xs:hidden text-sm text-gray-600 text-thin mt-6 mb-6 md:hidden">
+      <p class="xs:hidden text-sm text-gray-600 text-thin mt-6 mb-6">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ipsum
         unde, soluta ullam earum quibusdam nisi commodi nulla voluptas. Nesciunt
         illo reiciendis quis eum accusantium atque ipsum dolor nulla quibusdam.
@@ -60,7 +60,7 @@
       />
       <h1 class="mt-6 font-thin text-lg xs:text-base">Christina Morillo</h1>
       <h4 class="text-xs uppercase font-thin text-red-1000 xs:text-xs">founder, CEO</h4>
-      <p class="xs:hidden text-sm text-gray-600 text-thin mt-6 mb-6 md:hidden">
+      <p class="xs:hidden text-sm text-gray-600 text-thin mt-6 mb-6">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ipsum
         unde, soluta ullam earum quibusdam nisi commodi nulla voluptas. Nesciunt
         illo reiciendis quis eum accusantium atque ipsum dolor nulla quibusdam.
@@ -87,7 +87,7 @@
       />
       <h1 class="mt-6 font-thin text-lg xs:text-base">Christina Morillo</h1>
       <h4 class="text-xs uppercase font-thin text-red-1000 xs:text-xs">founder, CEO</h4>
-      <p class="xs:hidden text-sm text-gray-600 text-thin mt-6 mb-6 md:hidden">
+      <p class="xs:hidden text-sm text-gray-600 text-thin mt-6 mb-6">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ipsum
         unde, soluta ullam earum quibusdam nisi commodi nulla voluptas. Nesciunt
         illo reiciendis quis eum accusantium atque ipsum dolor nulla quibusdam.
