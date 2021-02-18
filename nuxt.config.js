@@ -27,7 +27,11 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/vuetify'
   ],
+  vuetify: {
+    /* module options */
+  },
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
